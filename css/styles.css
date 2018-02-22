@@ -1,3 +1,7 @@
-#celebrity, #under-21, #old-enough {
+.result {
+  display: none;
+}
+
+.celebrity, .under-21,{
   display: none;
 }
